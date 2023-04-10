@@ -37,7 +37,7 @@ Partial Class FrmInicioSesion
         Me.TxtUsuario.Name = "TxtUsuario"
         Me.TxtUsuario.Size = New System.Drawing.Size(303, 30)
         Me.TxtUsuario.TabIndex = 1
-        Me.TxtUsuario.Text = "Ingrese tu id"
+        Me.TxtUsuario.Text = "Ingrese su ID"
         Me.TxtUsuario.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TxtPw
